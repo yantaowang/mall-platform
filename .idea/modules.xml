@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/code-generator/code-generator.iml" filepath="$PROJECT_DIR$/code-generator/code-generator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/mall-platform.iml" filepath="$PROJECT_DIR$/.idea/mall-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-ums/mall-ums-admin/mall-ums-admin.iml" filepath="$PROJECT_DIR$/mall-ums/mall-ums-admin/mall-ums-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-ums/mall-ums-api/mall-ums-api.iml" filepath="$PROJECT_DIR$/mall-ums/mall-ums-api/mall-ums-api.iml" />
     </modules>
   </component>
 </project>
